@@ -14,8 +14,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Computerwissenschaftler 
   auf den University of Illinois at Urbana-Champaign und universität ulm.
   Danke danke für besuch!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://sksullivan.github.io" # the base hostname & protocol for your site
+baseurl: "/singleusermode" # the subpath of your site, e.g. /blog
+url: "http://developermode.github.io" # the base hostname & protocol for your site
 github_username:  sksullivan
 
 # Build settings
